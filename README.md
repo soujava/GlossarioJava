@@ -31,3 +31,7 @@ Após a compilação, o aqrquivo com a extensão ".class" já encontra-se dispon
 ## Como iniciar no desenvolvimento Java?
 
 Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço:https://go.java/developer-opportunities/index.html
+
+
+### Termos do Glossário Java
+*JAVA_HOME* 
