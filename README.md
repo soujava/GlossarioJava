@@ -2,9 +2,9 @@
 * O objetivo do glossário é descrever o significado de vários termos que compõem o todo o ecossistema da linguagem Java.
 
 
-* Observação - Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribir, basta entrar em contato com o SouJava.
+* Observação - Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.
 
-*Antes de descrever o os vários termos glossário, é importante falar sobre informações basicas sobre o Java:
+*Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
 ## O que é a linguagem Java?
 
