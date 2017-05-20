@@ -27,3 +27,7 @@ Sim. O Java é multiplataforma. A linguagem permite que o software escrito na li
 
 É um arquivo criado após a compilação de um arquivo com a extensão ".java"
 Após a compilação, o aqrquivo com a extensão ".class" já encontra-se disponível para ser interpretado pela JVM.
+
+## Como iniciar no desenvolvimento Java?
+
+Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço:https://go.java/developer-opportunities/index.html
