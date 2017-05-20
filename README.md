@@ -35,6 +35,9 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### _Termos do Glossário Java_
 
+* **JDK** ---> É o kit oficial de desenvolvimento para a linguagem Java. É necessário realizar o download do mesmo e instalá-lo. O Kit contém o ambiente de desenvolvimento e também a JVM para rodar os sistemas desenvolvidos na linguagem java.
 * **JAVA_HOME** ---> É o diretório da pasta aonde encontra-se a instalação do Java. Esse caminho é inserido como uma variável de ambiente no sistema operacional.
-* **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional
+* **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
+ 
+
 
