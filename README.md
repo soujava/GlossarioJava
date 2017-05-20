@@ -21,7 +21,7 @@ Sim. O Java é multiplataforma. A linguagem permite que o software escrito na li
 
 ## O que é um arquivo com a extensão."java?"
 
-É o arquivo que contém o código fonte escritos na linguagem Java.
+É o arquivo que contém o código fonte escrito na linguagem Java.
 
 ## O que é um arquivo com a extensão ".class?"
 
