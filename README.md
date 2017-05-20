@@ -35,4 +35,4 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### _Termos do Glossário Java_
 
-1. **JAVA_HOME** 
+* **JAVA_HOME** 
