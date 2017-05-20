@@ -36,9 +36,14 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 ### _Termos do Glossário Java_
 
 * **JDK** ---> É o kit oficial de desenvolvimento para a linguagem Java. É necessário realizar o download do mesmo e instalá-lo. O Kit contém o ambiente de desenvolvimento e também a JVM para rodar os sistemas desenvolvidos na linguagem java.
+* **IDE** ---> É uma ferramenta gráfica utilizada por muitos desenvolvedores, afim de facilitar o desenvolvimento de aplicações. comumente, os desenvolvedores Java utilizam  o Eclipse ou o Netbeans.
 * **JAVA_HOME** ---> É o diretório da pasta aonde encontra-se a instalação do Java. Esse caminho é inserido como uma variável de ambiente no sistema operacional.
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
-* **IDE** ---> É uma ferramenta gráfica utilizada por muitos desenvolvedores, afim de facilitar o desenvolvimento de aplicações. comumente, os desenvolvedores Java utilizam  o Eclipse ou o Netbeans.
+* **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
+* **Java SE** ---> É o ambiente Java voltado para o desenvovimento de aplicações desktop.
+
+
+
 
  
 
