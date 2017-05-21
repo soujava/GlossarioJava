@@ -28,6 +28,10 @@ Sim. O Java é multiplataforma. A linguagem permite que o software escrito na li
 É um arquivo criado após a compilação de um arquivo com a extensão ".java"
 Após a compilação, o aqrquivo com a extensão ".class" já encontra-se disponível para ser interpretado pela JVM.
 
+## O que é um arquivo com a extensão ".jar?"
+
+É um arquivo composto por uma ou mais classes Java. Além de classes Java, um arquivo com a extensão ".jar" pode conter outros tipos de arquivos. Eexemplo: arquivos com a extensão ".xml".  
+
 ## Como iniciar no desenvolvimento Java?
 
 Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço:https://go.java/developer-opportunities/index.html
@@ -43,6 +47,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
 * **Classe** ---> É uma coleção de dados compostos por seus atributos e métodos. Uma classe é um modelo para a criação de um objeto.
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
+* **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 
 
 
