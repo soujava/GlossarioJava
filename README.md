@@ -42,7 +42,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
 * **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
 * **Classe** ---> É uma coleção de dados compostos por seus atributos e métodos. Uma classe é um modelo para a criação de um objeto.
-* **modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
+* **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 
 
 
