@@ -40,7 +40,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **JAVA_HOME** ---> É o diretório da pasta aonde encontra-se a instalação do Java. Esse caminho é inserido como uma variável de ambiente no sistema operacional.
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
 * **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
-* **Java SE** ---> É o ambiente Java voltado para o desenvovimento de aplicações desktop.
+* **Java SE** ---> É o ambiente Java voltado para o desenvolvimento de aplicações desktop.
 
 
 
