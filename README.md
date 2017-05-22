@@ -3,7 +3,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 
 *Observação: Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.*
 
-<p align="center">![SouJava Logo](https://upload.wikimedia.org/wikipedia/en/1/18/SouJava_logo.jpg)</p>
+![SouJava Logo](https://upload.wikimedia.org/wikipedia/en/1/18/SouJava_logo.jpg)
  
 --
 
