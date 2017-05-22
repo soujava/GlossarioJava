@@ -14,6 +14,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
 * [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
+* [O que é o método main??](#o que é o método "main")
 
 *Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
@@ -42,6 +43,10 @@ Após a compilação, o aqrquivo com a extensão ".class" já encontra-se dispon
 
 É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", podem ser classes Java e/ou outros tipos de arquivos. Eexemplo: arquivos com a extensão ".xml".  
 
+## O que é o método "main" ?
+
+É o método responsável por executar toda a lógica da aplicação Java. 
+
 ## Como iniciar no desenvolvimento Java?
 
 Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço: https://go.java/developer-opportunities/index.html
@@ -58,10 +63,11 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Instância** ---> É o procidimento  necessário para criar um objeto. Muito conhecido como "dar um new em uma classe Java".
 * **Objeto** ---> É construído a partir de uma classe. Ou seja, uma classe pode ser a base para a construção de diversos objetos.
 * **Herança** ---> É o mecanismo que pode ser utilizado para que uma classe herde informações de uma outra classe.
- **Polimorfismo** ---> É capacidade de um objeto utilizar a referência de um outro objeto em tempo de execução.
-  **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
+* **Polimorfismo** ---> É capacidade de um objeto utilizar a referência de um outro objeto em tempo de execução.
+* **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
+
 
 ### [Frameworks Java](https://github.com/soujava/GlossarioJava/blob/master/frameworks-java.md) (Em Construção)
 
