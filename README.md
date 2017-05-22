@@ -13,8 +13,8 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".java" ?](#o-que-é-um-arquivo-com-a-extensão-java-)
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
-* [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
-* [O que é o método "main" ?](#o-que-é-o-método-main)
+* [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java-)
+* [O que é o método "main" ?](#o-que-é-o-método-main-)
 
 *Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
