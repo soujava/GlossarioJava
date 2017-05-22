@@ -55,6 +55,11 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
 * **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
 * **Classe** ---> É uma coleção de dados compostos por seus atributos e métodos. Uma classe é um modelo para a criação de um objeto.
+* **Instância** ---> É o procidimento  necessário para criar um objeto. Muito conhecido como "dar um new em uma classe Java".
+* **Objeto** ---> É construído a partir de uma classe. Ou seja, uma classe pode ser a base para a construção de diversos objetos.
+* **Herança** ---> É o mecanismo que pode ser utilizado para que uma classe herde informações de uma outra classe.
+ **Polimorfismo** ---> É capacidade de um objeto utilizar a referência de um outro objeto em tempo de execução.
+  **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 
