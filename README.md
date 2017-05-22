@@ -1,8 +1,9 @@
 # Glossário Java
 O objetivo deste glossário é descrever o significado de vários termos que compõem o todo o ecossistema da linguagem Java.
 
-Observação:
- *- Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.
+*Observação: Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.*
+ 
+--
 
 * [O que é a linguagem Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-linguagem-java)
 * [O que é a JVM?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-jvm)
