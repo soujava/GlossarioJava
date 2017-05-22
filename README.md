@@ -4,6 +4,18 @@
 
 * Observação - Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.
 
+--
+
+* [O que é a linguagem Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-linguagem-java)
+* [O que é a JVM?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-jvm)
+* [O Java é Multiplataforma?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-java-é-multiplataforma)
+* [O que é um arquivo com a extensão ".java" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensãojava)
+* [O que é um arquivo com a extensão ".class" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-class)
+* [O que é um arquivo com a extensão ".jar" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-jar)
+* [Como iniciar no desenvolvimento Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#como-iniciar-no-desenvolvimento-java)
+
+--
+
 *Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
 ## O que é a linguagem Java?
@@ -19,16 +31,16 @@ A Java Virtual Machine (JVM) é o ambiente responsável por rodar todos os siste
 Sim. O Java é multiplataforma. A linguagem permite que o software escrito na linguagem java seja compilado e interpretado em qualquer sistema operacional.
 
 
-## O que é um arquivo com a extensão."java?"
+## O que é um arquivo com a extensão ".java" ?
 
 É o arquivo que contém o código fonte escrito na linguagem Java.
 
-## O que é um arquivo com a extensão ".class?"
+## O que é um arquivo com a extensão ".class" ?
 
 É um arquivo criado após a compilação de um arquivo com a extensão ".java"
 Após a compilação, o aqrquivo com a extensão ".class" já encontra-se disponível para ser interpretado pela JVM.
 
-## O que é um arquivo com a extensão ".jar?"
+## O que é um arquivo com a extensão ".jar" ?
 
 É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", podem ser classes Java e/ou outros tipos de arquivos. Eexemplo: arquivos com a extensão ".xml".  
 
