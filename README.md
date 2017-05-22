@@ -70,6 +70,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
 * **Método** ---> É o componente responsável por executar alguma tarefa dentro de uma classe.
 * **Construtor** ---> É o componente utilizado durante a inicialização de um objeto. O construtor pode ser implícito ou explícito.
+* **Interface** ---> Uma interface contém um ou mais métodos sem as suas respectivas implementações. Cada método será implementado quando a interface for utilizada por um classe.
 * **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
 * **Memória Heap** ---> É o espaço reservado pela JVM para realizar a alocação de objetos na memória.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
