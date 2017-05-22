@@ -1,20 +1,15 @@
 # Glossario Java
 * O objetivo do glossário é descrever o significado de vários termos que compõem o todo o ecossistema da linguagem Java.
 
-
 * Observação - Esse Glossário está em construção, portanto pedimos a sua compreensão. E caso você queira contribuir, basta entrar em contato com o SouJava.
-
---
 
 * [O que é a linguagem Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-linguagem-java)
 * [O que é a JVM?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-jvm)
 * [O Java é Multiplataforma?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-java-é-multiplataforma)
-* [O que é um arquivo com a extensão ".java" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensãojava)
-* [O que é um arquivo com a extensão ".class" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-class)
-* [O que é um arquivo com a extensão ".jar" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-jar)
+* [O que é um arquivo com a extensão ".java" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-java-)
+* [O que é um arquivo com a extensão ".class" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-class-)
+* [O que é um arquivo com a extensão ".jar" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-jar-)
 * [Como iniciar no desenvolvimento Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#como-iniciar-no-desenvolvimento-java)
-
---
 
 *Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
@@ -29,7 +24,6 @@ A Java Virtual Machine (JVM) é o ambiente responsável por rodar todos os siste
 ## O Java é Multiplataforma?
 
 Sim. O Java é multiplataforma. A linguagem permite que o software escrito na linguagem java seja compilado e interpretado em qualquer sistema operacional.
-
 
 ## O que é um arquivo com a extensão ".java" ?
 
@@ -47,7 +41,6 @@ Após a compilação, o aqrquivo com a extensão ".class" já encontra-se dispon
 ## Como iniciar no desenvolvimento Java?
 
 Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço:https://go.java/developer-opportunities/index.html
-
 
 ### _Termos do Glossário Java_
 
