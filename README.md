@@ -5,7 +5,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
  
 --
 
-* [O que é a linguagem Java?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-linguagem-java)
+* [O que é a linguagem Java?](#o-que-é-a-linguagem-java)
 * [O que é a JVM?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-a-jvm)
 * [O Java é Multiplataforma?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-java-é-multiplataforma)
 * [O que é um arquivo com a extensão ".java" ?](https://github.com/soujava/GlossarioJava/blob/master/README.md#o-que-é-um-arquivo-com-a-extensão-java-)
