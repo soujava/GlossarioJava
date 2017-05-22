@@ -69,9 +69,12 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
 * **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
 * **Método** ---> É o componente responsável por executar alguma tarefa dentro de uma classe.
-* **Construtor** ---> É o componente utilizado durante a inicialização de todo objeto. O construtor pode ser implícito ou explícito.
+* **Construtor** ---> É o componente utilizado durante a inicialização de um objeto. O construtor pode ser implícito ou explícito.
+* **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
+* **Memória Heap** ---> É o espaço reservado pela JVM para realizar a alocação de objetos na memória.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
+* **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
 
 
 ### [Frameworks Java](https://github.com/soujava/GlossarioJava/blob/master/frameworks-java.md) (Em Construção)
