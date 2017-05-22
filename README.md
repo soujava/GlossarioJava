@@ -56,7 +56,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 
-### [Frameworks Java](https://github.com/soujava/GlossarioJava/blob/master/frameworks-java) (Em Construção)
+### [Frameworks Java](https://github.com/soujava/GlossarioJava/blob/master/frameworks-java.md) (Em Construção)
 
 
 
