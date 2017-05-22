@@ -68,8 +68,8 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
 * **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
-* **Método** ---> É componente responsável por executar alguma tarefa dentro de uma classe.
-
+* **Método** ---> É o componente responsável por executar alguma tarefa dentro de uma classe.
+* **Construtor** ---> É o componente utilizado durante a inicialização de todo objeto. O construtor pode ser implícito ou explícito.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 
