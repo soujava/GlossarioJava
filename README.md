@@ -69,8 +69,8 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
 * **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
 * **Método** ---> É o componente responsável por executar alguma tarefa dentro de uma classe.
-* **Método set** ---> É o tipo de método que executa alguma tarefa, com a intenção de repassar valores para o sistema. Esse tipo de método não utiliza a clásula "return" como clausula final.
-* **Método get** ---> É o tipo de método que executa alguma tarefa com a responsabilidade de retornar algum valor do sistema. Esse tipo de método utiliza a clausula "return" como clausula final.
+* **Método set** ---> É o tipo de método que executa alguma tarefa, com a intenção de repassar valores para o sistema. Esse tipo de método não utiliza a cláusula "return" ao final.
+* **Método get** ---> É o tipo de método que executa alguma tarefa com a responsabilidade de retornar algum valor do sistema. Esse tipo de método utiliza a cláusula "return" ao final.
 * **Construtor** ---> É o componente utilizado durante a inicialização de um objeto. O construtor pode ser implícito ou explícito.
 * **Interface** ---> Uma interface contém um ou mais métodos sem as suas respectivas implementações. Cada método será implementado quando a interface for utilizada por uma classe.
 * **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
