@@ -13,8 +13,8 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".java" ?](#o-que-é-um-arquivo-com-a-extensão-java-)
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
-* [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
 * [O que é o método "main" ?](#o-que-é-o-método-main-)
+* [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
 
 *Antes de descrever os vários termos do glossário, é importante falar sobre algumas informações basicas sobre o Java:
 
@@ -66,6 +66,9 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Polimorfismo** ---> É capacidade de um objeto utilizar a referência de um outro objeto em tempo de execução.
 * **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
+* **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
+* **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
+* **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 
 
