@@ -84,7 +84,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
 
 
-### [Frameworks Java](https://github.com/soujava/GlossarioJava/blob/master/frameworks-java.md) (Em Construção)
+### [Frameworks Java](frameworks-java.md) (Em Construção)
 
 
 
