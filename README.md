@@ -60,6 +60,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
 * **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
 * **Classe** ---> É uma coleção de dados compostos por seus atributos e métodos. Uma classe é um modelo para a criação de um objeto.
+* **Classe POJO** ---> São classes dedicadas a possuirem somente atributos com seus métodos setters e getters.
 * **Instância** ---> É o procidimento  necessário para criar um objeto. Muito conhecido como "dar um new em uma classe Java".
 * **Objeto** ---> É construído a partir de uma classe. Ou seja, uma classe pode ser a base para a construção de diversos objetos.
 * **Herança** ---> É o mecanismo que pode ser utilizado para que uma classe herde informações de uma outra classe.
@@ -67,12 +68,15 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
-* **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema.
+* **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema. É necessário utilizar a palavra reservada "final" na declaração da constante.
+* **Casting** ---> É a forma como é denominda a conversão de um tipo variável para um outro tipo de variável.
 * **Método** ---> É o componente responsável por executar alguma tarefa dentro de uma classe.
 * **Método set** ---> É o tipo de método que executa alguma tarefa, com a intenção de repassar valores para o sistema. Esse tipo de método não utiliza a cláusula "return" ao final.
 * **Método get** ---> É o tipo de método que executa alguma tarefa com a responsabilidade de retornar algum valor do sistema. Esse tipo de método utiliza a cláusula "return" ao final.
 * **Construtor** ---> É o componente utilizado durante a inicialização de um objeto. O construtor pode ser implícito ou explícito.
 * **Interface** ---> Uma interface contém um ou mais métodos sem as suas respectivas implementações. Cada método será implementado quando a interface for utilizada por uma classe.
+* **Abstract** ---> São classes que não podem ser instanciadas mas que podem ser herdadas por outras classes. Cada classe abstrata também exige por definição, a declaração de ao menos um método sem corpo, contendo assim: apenas a sua assinatura.
+* **Enum** ---> É um recurso do Java voltado para o armazenamento de diversas constantes. Uma enum também pode conter um construtor explícito.
 * **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
 * **Memória Heap** ---> É o espaço reservado pela JVM para realizar a alocação de objetos na memória.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
