@@ -55,6 +55,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 * **JDK** ---> É o kit oficial de desenvolvimento para a linguagem Java. É necessário realizar o download do mesmo e instalá-lo. O Kit contém o ambiente de desenvolvimento e também a JVM para rodar os sistemas desenvolvidos na linguagem java.
 * **Java SE** ---> É o ambiente Java voltado para o desenvolvimento de aplicações desktop.
+* **Java EE** ---> É o ambiente Java voltado para o desenvolvimento de aplicações WEB.
 * **IDE** ---> É uma ferramenta gráfica utilizada por muitos desenvolvedores, afim de facilitar o desenvolvimento de aplicações. comumente, os desenvolvedores Java utilizam  o Eclipse ou o Netbeans.
 * **JAVA_HOME** ---> É o diretório da pasta aonde encontra-se a instalação do Java. Esse caminho é inserido como uma variável de ambiente no sistema operacional.
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
@@ -75,11 +76,15 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Método get** ---> É o tipo de método que executa alguma tarefa com a responsabilidade de retornar algum valor do sistema. Esse tipo de método utiliza a cláusula "return" ao final.
 * **Construtor** ---> É o componente utilizado durante a inicialização de um objeto. O construtor pode ser implícito ou explícito.
 * **Interface** ---> Uma interface contém um ou mais métodos sem as suas respectivas implementações. Cada método será implementado quando a interface for utilizada por uma classe.
+* **Bloco Try Catch** ---> É a maneira como são tratadas a erros/exceções na linguagem Java.
 * **Abstract** ---> São classes que não podem ser instanciadas mas que podem ser herdadas por outras classes. Cada classe abstrata também exige por definição, a declaração de ao menos um método sem corpo, contendo assim: apenas a sua assinatura.
 * **Enum** ---> É um recurso do Java voltado para o armazenamento de diversas constantes. Uma enum também pode conter um construtor explícito.
+* **Generics** ---> É o recurso utilizado no Java para que seja possível trabalhar com programação genérica. Com isso, classes ou interfaces podem receber um tipo genérico em tempo de execução.
+* **Threads** ---> É o recurso utlizado para se trabalhar com programação concorrente. Ou seja, duas ou mais tarefas sendo executadas ao mesmo tempo.
 * **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
 * **Memória Heap** ---> É o espaço reservado pela JVM para realizar a alocação de objetos na memória.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
+* **import** ---> É o termo utilizado para importar pacotes a serem utilizados em uma classe Java.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 * **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
 
