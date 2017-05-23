@@ -95,7 +95,8 @@ Veja aqui um glossário dos principais frameworks Java
   # Autenticação e autorização web
     Spring Security – http://www.springsource.org/
     JGuard – http://jguard.xwiki.com/xwiki/bin/view/Main/WebHome
-    JEE Container Managed Security (Configuração especifica para cada provedor de container JEE). Veja o Tomcat – http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html
+    JEE Container Managed Security (Configuração especifica para cada provedor de container JEE). 
+    Veja o Tomcat – http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html
   
   # JEE web container standalone
     Tomcat – http://tomcat.apache.org/
