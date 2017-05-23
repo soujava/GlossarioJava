@@ -4,18 +4,44 @@ Veja aqui um glossário dos principais frameworks Java
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
   # Container IoC
-  
+    Spring – http://www.springsource.org/
+    Guice – http://picocontainer.codehaus.org/
+    PicoContainer – http://code.google.com/p/google-guice/
+    EJB – http://www.oracle.com/technetwork/java/javaee/ejb/index.html
+    CDI – http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html
+
   # Persistência
-  
+    Hibernate – http://www.hibernate.org/
+    Spring Data – http://www.springsource.org/
+    iBatis – http://www.mybatis.org/
+    Torque – http://db.apache.org/torque/
+    Castor – http://www.castor.org/
+    Cayenne – http://cayenne.apache.org/
+
   # Gerenciador de transação
-  
+  Spring AOP transaction – http://www.springsource.org/
+  EJB (JTA) – http://www.oracle.com/technetwork/java/javaee/ejb/index.html
+
   # Agendamento de tarefas
-  
+  Timer Task JSE – http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/threads/timer.html
+  Quarts – http://quartz-scheduler.org/
+  EJB Timer Service – http://docs.oracle.com/javaee/6/tutorial/doc/bnboy.html
+
   # Validação
-  
+  Commons Validator – http://commons.apache.org/validator/
+  Java Bean Validator – http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html
+
   # Chamadas assíncronas
-  
+  JSE Executor Services – http://docs.oracle.com/javase/tutorial/essential/concurrency/exinter.html
+  EJB Asynchronous Method Invocation – http://docs.oracle.com/javaee/6/tutorial/doc/gkkqg.html
+  EJB Message-Driven Bean – http://docs.oracle.com/javaee/6/tutorial/doc/gipko.html
+
   # Kit de interface gráficas desktop
+    Swing – http://docs.oracle.com/javase/tutorial/uiswing/
+    SwingX – http://swingx.java.net/
+    JGoodies – http://www.jgoodies.com/
+    SWT – http://www.eclipse.org/swt/
+    SWT OPAL – http://code.google.com/a/eclipselabs.org/p/opal/
   
   # RAD interface gráficas desktop
     Eclipse Windows Builder – http://www.eclipse.org/windowbuilder/
