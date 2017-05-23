@@ -10,38 +10,24 @@ Container IoC
 -------------
 
  - Spring – <http://www.springsource.org/>
-
-   
-
  - Guice – <http://picocontainer.codehaus.org/>
-
-   
-
  - PicoContainer – <http://code.google.com/p/google-guice/>
-
-   
-
  - EJB – <http://www.oracle.com/technetwork/java/javaee/ejb/index.html>
-
-   
-
  - CDI –
    <http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html>
 
 Persistência
 ------------
 
- -    Hibernate – [http://www.hibernate.org/](http://www.hibernate.org/)
+ -  Hibernate – [http://www.hibernate.org/](http://www.hibernate.org/)
  -  Spring Data – [http://www.springsource.org/](http://www.springsource.org/)
- -    iBatis – [http://www.mybatis.org/](http://www.mybatis.org/)
- -    Torque – [http://db.apache.org/torque/](http://db.apache.org/torque/)
- -    Castor – [http://www.castor.org/](http://www.castor.org/)
- -    Cayenne – [http://cayenne.apache.org/](http://cayenne.apache.org/)
+ -  iBatis – [http://www.mybatis.org/](http://www.mybatis.org/)
+ -  Torque – [http://db.apache.org/torque/](http://db.apache.org/torque/)
+ -  Castor – [http://www.castor.org/](http://www.castor.org/)
+ -  Cayenne – [http://cayenne.apache.org/](http://cayenne.apache.org/)
 
 Gerenciador de transação
 ------------------------
-
-   
 
  - Spring AOP transaction – http://www.springsource.org/
  - EJB (JTA) – http://www.oracle.com/technetwork/java/javaee/ejb/index.html
@@ -49,15 +35,15 @@ Gerenciador de transação
 Agendamento de tarefas
 ----------------------
 
- -  Timer Task JSE – http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/threads/timer.html
+ - Timer Task JSE – http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/threads/timer.html
  - Quarts – http://quartz-scheduler.org/
  - EJB Timer Service – http://docs.oracle.com/javaee/6/tutorial/doc/bnboy.html
 
 Validação
 ---------
 
-  Commons Validator – http://commons.apache.org/validator/
-   Java Bean Validator – http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html
+ - Commons Validator – http://commons.apache.org/validator/
+ - Java Bean Validator – http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html
 
 Chamadas assíncronas
 --------------------
@@ -251,53 +237,46 @@ NoSQL
 
 SGDB Java embutidos
 -------------------
-
-   HyperSQL – http://hsqldb.org/
-   JavaDB – http://www.oracle.com/technetwork/java/javadb/overview/index.html
-   Apache Derby – http://db.apache.org/derby/
-   H2Database – http://www.h2database.com
+  - HyperSQL – http://hsqldb.org/
+  - JavaDB – http://www.oracle.com/technetwork/java/javadb/overview/index.html
+  - Apache Derby – http://db.apache.org/derby/
+  - H2Database – http://www.h2database.com
   
 
 Testes
 ------
-
-  DBUnit – http://www.dbunit.org/
-   JUnit – http://www.junit.org/
-   EJBUnit – http://ejb3unit.sourceforge.net/
-   JSFUnit – http://www.jboss.org/jsfunit/
+  - DBUnit – http://www.dbunit.org/
+  - JUnit – http://www.junit.org/
+  - EJBUnit – http://ejb3unit.sourceforge.net/
+  - JSFUnit – http://www.jboss.org/jsfunit/
   
 
 Logging
 -------
-
-  jse – http://docs.oracle.com/javase/7/docs/api/java/util/logging/package-summary.html
-   Log4J – http://logging.apache.org/index.html
+ - jse – http://docs.oracle.com/javase/7/docs/api/java/util/logging/package-summary.html
+ - Log4J – http://logging.apache.org/index.html
 
 Testes cargas e perfomance
 --------------------------
-
-  JMeter – http://jmeter.apache.org/
-   WebLoad – http://www.webload.org/
+ - JMeter – http://jmeter.apache.org/
+ - WebLoad – http://www.webload.org/
 
 JSON
 ----
-
-  JSON – http://www.json.org/java/
-   XStream – http://xstream.codehaus.org/json-tutorial.html
-   Google-JSON – http://code.google.com/p/google-gson/
+ - JSON – http://www.json.org/java/
+ - XStream – http://xstream.codehaus.org/json-tutorial.html
+ - Google-JSON – http://code.google.com/p/google-gson/
 
 Boletos bancário
 ----------------
-
-   Boletos Bancário – http://www.boletobancario.com.br
-   Bopepo – http://www.jrimum.org/bopepo/
-   Stella – http://github.com/caelum/caelum-stella/wiki/Gerando-boleto
+ - Boletos Bancário – http://www.boletobancario.com.br
+ - Bopepo – http://www.jrimum.org/bopepo/
+ - Stella – http://github.com/caelum/caelum-stella/wiki/Gerando-boleto
 
 Manipulaçao de arquivos MS Office
 ---------------------------------
-
-   Apache POI – http://poi.apache.org/
-   JExcelApi – http://jexcelapi.sourceforge.net/
-   Docx4j – http://dev.plutext.org/trac/docx4j
-   Java Docx – http://www.javadocx.com/
-   Aspose – http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx
+ - Apache POI – http://poi.apache.org/
+ - JExcelApi – http://jexcelapi.sourceforge.net/
+ - Docx4j – http://dev.plutext.org/trac/docx4j
+ - Java Docx – http://www.javadocx.com/
+ - Aspose – http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx
