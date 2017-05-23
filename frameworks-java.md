@@ -9,11 +9,24 @@ Veja aqui um glossário dos principais frameworks Java
 Container IoC
 -------------
 
-   Spring – <http://www.springsource.org/>
-   Guice – <http://picocontainer.codehaus.org/>
-   PicoContainer – <http://code.google.com/p/google-guice/>
-   EJB – <http://www.oracle.com/technetwork/java/javaee/ejb/index.html>
-   CDI – <http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html>
+ - Spring – <http://www.springsource.org/>
+
+   
+
+ - Guice – <http://picocontainer.codehaus.org/>
+
+   
+
+ - PicoContainer – <http://code.google.com/p/google-guice/>
+
+   
+
+ - EJB – <http://www.oracle.com/technetwork/java/javaee/ejb/index.html>
+
+   
+
+ - CDI –
+   <http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html>
 
 Persistência
 ------------
