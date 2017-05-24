@@ -93,9 +93,11 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **import** ---> É o termo utilizado para importar pacotes a serem utilizados em uma classe Java.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 * **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
-* **Servidor de Aplicação** ---> São ferramentas dedicadas a realização de tarefas que auxiliam o desenvolvimento WEB. Entre os servidores comumente utilizados no desenvolvimento Java WEB, estão: Glassfish, JBoss e TomCat.
+* **Servidor WEB** ---> São ferramentas dedicadas a realização de tarefas que auxiliam o desenvolvimento WEB. Entre os servidores comumente utilizados no desenvolvimento Java WEB é o TomCat.
+* **Servidor de Aplicação** ---> São ferramentas dedicadas a realização de tarefas que auxiliam o desenvolvimento WEB e que englobam toda a especificação do JAVA EE. Entre os servidores comumente utilizados estão: JBOSS e Glassfish.
 * **Servlet** ---> É uma classe java responsável por algumas tarefas no desenvolvimento Java WEB. Tais como: recebimento e envio de requisições.
 * **JSP** ---> É uma tecnolgia utilizada do ambiente Java, que visa facilitar a criação de páginas WEB juntamente com a programação Backend do Java.
+* **Modelo MVC** ---> É um modelo de desenvolvimento de aplicações utilizado para arquitetura de software. Tal modelo é dividido em três camadas: Model, View e Controller. A camada de Modelo, representa efetivamente os dados da aplicação com suas regras de negócio. O View, representa a camada de visualização da aplicação em um dispostivo. O Controller é resposável por receber todas as requisições do usuário e gerenciá-las com o fluxo previamente determinado na aplicação.
 
 ### [Frameworks Java](frameworks-java.md) 
 
