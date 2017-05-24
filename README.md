@@ -98,6 +98,10 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Servlet** ---> É uma classe java responsável por algumas tarefas no desenvolvimento Java WEB. Tais como: recebimento e envio de requisições.
 * **JSP** ---> É uma tecnolgia utilizada do ambiente Java, que visa facilitar a criação de páginas WEB juntamente com a programação Backend do Java.
 * **Modelo MVC** ---> É um modelo de desenvolvimento de aplicações utilizado para arquitetura de software. Tal modelo é dividido em três camadas: Model, View e Controller. A camada de Modelo, representa efetivamente os dados da aplicação com suas regras de negócio. O View, representa a camada de visualização da aplicação em um dispostivo. O Controller é resposável por receber todas as requisições do usuário e gerenciá-las com o fluxo previamente determinado na aplicação.
+* **EJB** ---> É um componente escrito na linguagem Java e que roda no lado do servidor. O EJB encapsula a lógica de negócios.
+* **Java Persistence API** ---> É a especificação voltada para o mapeamento objeto relacional no desenvolvimento de sistemas Java.
+* **WebServices** ---> É a forma de se consumir informações entre sistemas ou plataformas de desenvolvimento através da interoperabilidade. Essa comunicação pode ser baseada no uso de xml para as trocas de mensagens.
+* **CDI** ---> Tem como base em sua especificação, a utilização da Injeção de Dependência em aplicações Java. Além de possuir outras característiscas que facilitam o gerenciamento do ciclo de vida de aplicações com outros componentes da especificação JAVA EE. Como por exemplo, EJB e JSF.
 
 ### [Frameworks Java](frameworks-java.md) 
 
