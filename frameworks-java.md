@@ -279,4 +279,4 @@ Manipulaçao de arquivos MS Office
  - JExcelApi – <http://jexcelapi.sourceforge.net/>
  - Docx4j – <http://dev.plutext.org/trac/docx4j>
  - Java Docx – <http://www.javadocx.com/>
- - Aspose – <http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx>
+ - Aspose – <https://www.aspose.com/products/total/java>
