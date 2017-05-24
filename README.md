@@ -13,6 +13,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".java" ?](#o-que-é-um-arquivo-com-a-extensão-java-)
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
+* [O que é uma "api" ?](#o-que-é-api-)
 * [O que é o método "main" ?](#o-que-é-o-método-main-)
 * [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
 
@@ -42,6 +43,11 @@ Após a compilação, o aqrquivo com a extensão ".class" já encontra-se dispon
 ## O que é um arquivo com a extensão ".jar" ?
 
 É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", podem ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
+
+## O que é uma "api" ?
+
+É um conjunto de classes agrupadas, que podem ser fornecidas pela especificação Java (ou criadas pelo próprio desenvolvedor) e que podem ser utilizadas em algum determinado momento para auxiliar o desenvolvimento de uma aplicação Java.
+Muitos desenvolvedores criam suas próprias apis e disponibilizam na internet, com o intuito de ajudar desenvolvedores que possam ter tido o mesmo problema que ele, até a construção da sua própria api.
 
 ## O que é o método "main" ?
 
@@ -87,7 +93,9 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **import** ---> É o termo utilizado para importar pacotes a serem utilizados em uma classe Java.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 * **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
-
+* **Servidor de Aplicação** ---> São ferramentas dedicadas a realização de tarefas que auxiliam o desenvolvimento WEB. Entre os servidores comumente utilizados no desenvolvimento Java WEB, estão: Glassfish, JBoss e TomCat.
+* **Servlet** ---> É uma classe java responsável por algumas tarefas no desenvolvimento Java WEB. Tais como: recebimento e envio de requisições.
+* **JSP** ---> É uma tecnolgia utilizada do ambiente Java, que visa facilitar a criação de páginas WEB juntamente com a programação Backend do Java.
 
 ### [Frameworks Java](frameworks-java.md) 
 
