@@ -13,7 +13,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".java" ?](#o-que-é-um-arquivo-com-a-extensão-java-)
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
-* [O que é uma "api" ?](#o-que-é-api-)
+* [O que é uma "api" ?](#o-que-é-uma-api-)
 * [O que é o método "main" ?](#o-que-é-o-método-main-)
 * [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
 
