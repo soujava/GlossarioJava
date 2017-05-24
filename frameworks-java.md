@@ -143,18 +143,19 @@ Java EE web container standalone
 
  - Tomcat – <http://tomcat.apache.org/>
  - Jetty – <http://jetty.codehaus.org/jetty/>
- - JBoss/Wildfly – <http://www.jboss.org/> | <http://wildfly.org/>
+ - JBoss/Wildfly – <http://wildfly.org/>
   
 
-Java EE EJB container (web profile e JEE Full)
+Java EE EJB container (web profile e Java EE Full)
 ------------------------------------------
    
 
  - Tomee – <http://openejb.apache.org/apache-tomee.html>
  - Simpas – <http://siwpas.mechsoft.com.tr/>
  - Resin – <http://www.caucho.com/resin-application-server/>
- - JBoss/Wildfly – <http://www.jboss.org/> | <http://wildfly.org/>
+ - JBoss/Wildfly – <http://wildfly.org/>
  - Glassfish – <http://glassfish.java.net/>
+ - Payara - <http://www.payara.fish/>
  - Webshere – <http://www-142.ibm.com/software/products/br/pt/appserv-was/>
  - WebLogic – <http://www.oracle.com/us/products/middleware/application-server/weblogic-suite/index.html?ssSourceSiteId=ocombr/>
  - Geronimo – <http://geronimo.apache.org/>
