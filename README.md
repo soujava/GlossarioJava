@@ -98,10 +98,15 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Servlet** ---> É uma classe java responsável por algumas tarefas no desenvolvimento Java WEB. Tais como: recebimento e envio de requisições.
 * **JSP** ---> É uma tecnolgia utilizada do ambiente Java, que visa facilitar a criação de páginas WEB juntamente com a programação Backend do Java.
 * **Modelo MVC** ---> É um modelo de desenvolvimento de aplicações utilizado para arquitetura de software. Tal modelo é dividido em três camadas: Model, View e Controller. A camada de Modelo, representa efetivamente os dados da aplicação com suas regras de negócio. O View, representa a camada de visualização da aplicação em um dispostivo. O Controller é resposável por receber todas as requisições do usuário e gerenciá-las com o fluxo previamente determinado na aplicação.
-* **EJB** ---> É um componente escrito na linguagem Java e que roda no lado do servidor. O EJB encapsula a lógica de negócios.
-* **Java Persistence API** ---> É a especificação voltada para o mapeamento objeto relacional no desenvolvimento de sistemas Java.
+* **EJB** ---> É o componente da especificação JAVA EE escrito na linguagem Java e que roda no lado do servidor. O EJB encapsula a lógica de negócios.
+* **JavaServerFaces** ---> É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter base, o desenvolvimento de aplicações WEB no padrão MVC.
+* **Java Persistence API** ---> É o componente da especificação JAVA EE que é voltado para o mapeamento objeto relacional no desenvolvimento de sistemas Java.
 * **WebServices** ---> É a forma de se consumir informações entre sistemas ou plataformas de desenvolvimento através da interoperabilidade. Essa comunicação pode ser baseada no uso de xml para as trocas de mensagens.
-* **CDI** ---> Tem como base em sua especificação, a utilização da Injeção de Dependência em aplicações Java. Além de possuir outras característiscas que facilitam o gerenciamento do ciclo de vida de aplicações com outros componentes da especificação JAVA EE. Como por exemplo, EJB e JSF.
+* **CDI** ---> É componente da especificação JAVA EE que tem como função, a utilização da Injeção de Dependência em aplicações Java. Além de possuir outras característiscas que facilitam o gerenciamento do ciclo de vida de aplicações com outros componentes da especificação JAVA EE. Como por exemplo, EJB e JSF.
+* **JMS** ---> É o componente da especificação JAVA EE que é tem como foco, facilitar o envio e recbimento de mensagens entre sistemas. Facilitando assim: a criação, o envio, o recebimento e a leitura de mensagens. E tais mensagens podem ser assíncronas ou não.
+* **JTA** ---> É o componente da especificação JAVA EE que é tem como foco, o gerenciamento de transações em aplicações Java. Sua vantagem, é o gerenciamento de transações em sistemas distribuídos que possuem recursos compartilhados.
+* **Segurança no JAVA SE** ---> Algumas apis são fornecidas para gerenciar a segurança das aplicações. São elas: JAAS, Java GSS, JCE, JSSE e SASL.
+
 
 ### [Frameworks Java](frameworks-java.md) 
 
