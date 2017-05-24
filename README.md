@@ -13,6 +13,8 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 * [O que é um arquivo com a extensão ".java" ?](#o-que-é-um-arquivo-com-a-extensão-java-)
 * [O que é um arquivo com a extensão ".class" ?](#o-que-é-um-arquivo-com-a-extensão-class-)
 * [O que é um arquivo com a extensão ".jar" ?](#o-que-é-um-arquivo-com-a-extensão-jar-)
+* [O que é um arquivo com a extensão ".war" ?](#o-que-é-um-arquivo-com-a-extensão-war-)
+* [O que é um arquivo com a extensão ".ear" ?](#o-que-é-um-arquivo-com-a-extensão-ear-)
 * [O que é uma "api" ?](#o-que-é-uma-api-)
 * [O que é o método "main" ?](#o-que-é-o-método-main-)
 * [Como iniciar no desenvolvimento Java?](#como-iniciar-no-desenvolvimento-java)
@@ -43,6 +45,14 @@ Após a compilação, o aqrquivo com a extensão ".class" já encontra-se dispon
 ## O que é um arquivo com a extensão ".jar" ?
 
 É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", podem ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
+
+## O que é um arquivo com a extensão ".war" ?
+
+É um arquivo compactado que contém uma aplicação java e todo o seu respectivo conteúdo: arquivos HTML, classes Java, arquivos JavaScript e todos e os demais arquivos necessários para o funcionamento de uma aplicação WEB.
+
+## O que é um arquivo com a extensão ".ear" ?
+
+É um arquivo compactado que contém uma aplicação java e todo o seu respectivo conteúdo para uma aplicação Java EE.
 
 ## O que é uma "api" ?
 
