@@ -120,7 +120,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### [Frameworks Java](frameworks-java.md) 
 
-* [O que é o JavaServerFaces?](#o-que-é-o-JavaServerFaces)
+* [O que é o JavaServerFaces?](#o-que-é-o-JavaServerFaces-)
 
 ## O que é o "JavaServerFaces" ?
 
@@ -129,7 +129,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 * **expression language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
    
-* **Managead Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre para arquivos HTML, por exemplo. Seja na inserção ou para consulta de dados do Sistema. Comumente se comunica com os DAOs do sistema. Os Managead Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managead Beans,
+* **Managead Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managead Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managead Beans,
  
 
 
