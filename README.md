@@ -120,8 +120,16 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### [Frameworks Java](frameworks-java.md) 
 
+* [O que é JavaServerFaces?](#o-que-é-JavaServerFaces)
+
+## O que é uma "JavaServerFaces" ?
+
+É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter base, o desenvolvimento de aplicações WEB no padrão MVC.
 
 
+* **expression language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
+   
+* **Managead Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre para arquivos HTML, por exemplo. Seja na inserção ou para consulta de dados do Sistema. Comumente se comunica com os DAOs do sistema. Os Managead Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managead Beans,
  
 
 
