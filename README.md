@@ -120,9 +120,9 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### [Frameworks Java](frameworks-java.md) 
 
-* [O que é JavaServerFaces?](#o-que-é-JavaServerFaces)
+* [O que é o JavaServerFaces?](#o-que-é-o-JavaServerFaces)
 
-## O que é uma "JavaServerFaces" ?
+## O que é o "JavaServerFaces" ?
 
 É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter base, o desenvolvimento de aplicações WEB no padrão MVC.
 
