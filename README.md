@@ -124,12 +124,12 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ## O que é o "JavaServerFaces" ?
 
-É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
+É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 
 
 * **expression language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
    
-* **Managead Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managead Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managead Beans,
+* **Managed Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managed Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managed Beans.
  
 
 
