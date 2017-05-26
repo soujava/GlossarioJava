@@ -120,8 +120,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Segurança no JAVA SE** ---> Algumas apis são fornecidas para gerenciar a segurança das aplicações. São elas: JAAS, Java GSS, JCE, JSSE e SASL.
 
 
-### [Frameworks Java](frameworks-java.md) 
-
+### [Frameworks Java](frameworks-java.md)
 * [O que é o JavaServerFaces?](#o-que-é-o-JavaServerFaces-)
 
 ## O que é o "JavaServerFaces" ?
