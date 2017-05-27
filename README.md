@@ -133,5 +133,5 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
    
 * **Managed Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managed Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managed Beans.
  
-
+* **AJAX** ---> O AJAX permite ao desenvolvedor, entre as muitas opções de comunicação com  o servidor, a realização de atividades assíncronas. Como por exemplo, a atualização de páginas de internet de acordo com determinadas ações do usuário. Evitando assim, a necessidade de toda atualização da tela do sistema. Tornando assim, a navegabilidade do usuário mais amigável. E o melhor de tudo isso, é que o JSF já traz o Ajax incorporado em sua implementação. 
 
