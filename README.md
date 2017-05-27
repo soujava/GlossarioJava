@@ -136,3 +136,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **AJAX** ---> O AJAX permite ao desenvolvedor, entre as muitas opções de comunicação com  o servidor, a realização de atividades assíncronas. Como por exemplo, a atualização de páginas de internet de acordo com determinadas ações do usuário. Evitando assim, a necessidade de toda atualização da tela do sistema. Tornando assim, a navegabilidade do usuário mais amigável. E o melhor de tudo isso, é que o JSF já traz o Ajax incorporado em sua implementação. 
 
 * **Facelet** ---> É o recurso utilizado para a construção de templates em aplicações Web com o JavaServerFaces. Esse recurso, evita a duplicação de código em diversas partes da aplicação. 
+
+* **Conversores ** ---> Essa funcionalidade é útil para a conversão de tipos durante uma requisição ou solicitação feita pelo usuário, por exemplo.
+
+* **Validadores ** ---> São úteis para validar informações inseridas por um usuário. 
