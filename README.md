@@ -137,6 +137,6 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 * **Facelet** ---> É o recurso utilizado para a construção de templates em aplicações Web com o JavaServerFaces. Esse recurso, evita a duplicação de código em diversas partes da aplicação. 
 
-* **Conversores ** ---> Essa funcionalidade é útil para a conversão de tipos durante uma requisição ou solicitação feita pelo usuário, por exemplo.
+* **Conversores** ---> Essa funcionalidade é útil para a conversão de tipos durante uma requisição ou solicitação feita pelo usuário, por exemplo.
 
-* **Validadores ** ---> São úteis para validar informações inseridas por um usuário. 
+* **Validadores** ---> São úteis para validar informações inseridas por um usuário. 
