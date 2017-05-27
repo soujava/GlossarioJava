@@ -110,7 +110,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Servlet** ---> É uma classe java responsável por algumas tarefas no desenvolvimento Java WEB. Tais como: recebimento e envio de requisições.
 * **JSP** ---> É uma tecnolgia utilizada do ambiente Java, que visa facilitar a criação de páginas WEB juntamente com a programação Backend do Java.
 * **Modelo MVC** ---> É um modelo de desenvolvimento de aplicações utilizado para arquitetura de software. Tal modelo é dividido em três camadas: Model, View e Controller. A camada de Modelo, representa efetivamente os dados da aplicação com suas regras de negócio. O View, representa a camada de visualização da aplicação em um dispostivo. O Controller é resposável por receber todas as requisições do usuário e gerenciá-las com o fluxo previamente determinado na aplicação.
-* **DAO** ---> É um padrão de projetos utilizado do desenvolvimento de aplicações Java. Um DAO define um modelo de abstração de acesso aos dados que estão contido em um banco de dados.
+* **DAO** ---> É um padrão de projetos utilizado do desenvolvimento de aplicações Java. Um DAO define um modelo de abstração de acesso aos dados que estão contidos em um banco de dados.
 * **EJB** ---> É o componente da especificação JAVA EE escrito na linguagem Java e que roda no lado do servidor. O EJB encapsula a lógica de negócios.
 * **JavaServerFaces** ---> É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 * **Java Persistence API** ---> É o componente da especificação JAVA EE que é voltado para o mapeamento objeto relacional no desenvolvimento de sistemas Java.
