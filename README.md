@@ -102,7 +102,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Garbage Collection** ---> É o processo de gerenciamento de memória na linguagem Java.
 * **Memória Heap** ---> É o espaço reservado pela JVM para realizar a alocação de objetos na memória.
 * **Tipos primitivos** ---> É o tipo de valor que uma variável poderá armazenar. E os tipos primitivos podem ser: byte, short, int, long, float, double, char ou boolean.
-* **import** ---> É o termo utilizado para importar pacotes a serem utilizados em uma classe Java.
+* **Import** ---> É o termo utilizado para importar pacotes a serem utilizados em uma classe Java.
 * **Package** ---> Local no qual são armazenadas as classes Java. Um projeto pode ter diversos pacotes. A boa prática indica que os pacotes armazenem classes de um determinado assunto.
 * **Design patterns** ---> É uma coleção de boas práticas de desenvolvimento e que são muito utilizados pela comunidade Java ao redor do mundo.
 * **Servidor WEB** ---> São ferramentas dedicadas a realização de tarefas que auxiliam o desenvolvimento WEB. Entre os servidores comumente utilizados no desenvolvimento Java WEB é o TomCat.
@@ -112,7 +112,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Modelo MVC** ---> É um modelo de desenvolvimento de aplicações utilizado para arquitetura de software. Tal modelo é dividido em três camadas: Model, View e Controller. A camada de Modelo, representa efetivamente os dados da aplicação com suas regras de negócio. O View, representa a camada de visualização da aplicação em um dispostivo. O Controller é resposável por receber todas as requisições do usuário e gerenciá-las com o fluxo previamente determinado na aplicação.
 * **DAO** ---> É um padrão de projetos utilizado do desenvolvimento de aplicações Java. Um DAO define um modelo de abstração de acesso aos dados que estão contidos em um banco de dados.
 * **EJB** ---> É o componente da especificação JAVA EE escrito na linguagem Java e que roda no lado do servidor. O EJB encapsula a lógica de negócios.
-* **JavaServerFaces** ---> É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficoos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
+* **JavaServerFaces** ---> É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 * **Java Persistence API** ---> É o componente da especificação JAVA EE que é voltado para o mapeamento objeto relacional no desenvolvimento de sistemas Java.
 * **WebServices** ---> É a forma de se consumir informações entre sistemas ou plataformas de desenvolvimento através da interoperabilidade. Essa comunicação pode ser baseada no uso de xml para as trocas de mensagens.
 * **CDI** ---> É componente da especificação JAVA EE que tem como função, a utilização da Injeção de Dependência em aplicações Java. Além de possuir outras característiscas que facilitam o gerenciamento do ciclo de vida de aplicações com outros componentes da especificação JAVA EE. Como por exemplo, EJB e JSF.
@@ -129,7 +129,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 
 * **Ciclo de Vida** ---> O JSF tem como base, um ciclo de vida bem defindo para a construção de aplicações Web. As fases que compõem esse ciclo, são: Restore View, Apply Request Values,  Process Validation, Update Model Values, Invoke Application, Render Response.
-* **expression language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
+* **Expression Language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
 
 * **Managed Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managed Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managed Beans.
 
