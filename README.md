@@ -24,7 +24,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 
 ## O que é a linguagem Java?
 
-O Java é uma linguagem que utiliza o paradigma de orientação a objetos para o desenvolvimento de software. 
+O Java é uma linguagem que utiliza o paradigma de orientação a objetos para o desenvolvimento de software.
 
 ## O que é a JVM?
 
@@ -41,11 +41,11 @@ Sim. O Java é multiplataforma. A linguagem permite que o software escrito na li
 ## O que é um arquivo com a extensão ".class" ?
 
 É um arquivo criado após a compilação de um arquivo com a extensão ".java"
-Após a compilação, o aqrquivo com a extensão ".class" já encontra-se disponível para ser interpretado pela JVM.
+Após a compilação, o arquivo com a extensão ".class" já encontra-se disponível para ser interpretado pela JVM.
 
 ## O que é um arquivo com a extensão ".jar" ?
 
-É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", podem ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
+É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", pode ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
 
 ## O que é um arquivo com a extensão ".war" ?
 
@@ -62,7 +62,7 @@ Muitos desenvolvedores criam suas próprias apis e disponibilizam na internet, c
 
 ## O que é o método "main" ?
 
-É o método responsável por executar toda a lógica da aplicação Java. 
+É o método responsável por executar toda a lógica da aplicação Java.
 
 ## Como iniciar no desenvolvimento Java?
 
@@ -77,14 +77,14 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **IDE** ---> É uma ferramenta gráfica utilizada por muitos desenvolvedores, afim de facilitar o desenvolvimento de aplicações. comumente, os desenvolvedores Java utilizam  o Eclipse ou o Netbeans.
 * **JAVA_HOME** ---> É o diretório da pasta aonde encontra-se a instalação do Java. Esse caminho é inserido como uma variável de ambiente no sistema operacional.
 * **CLASSPATH** ---> É o diretório atribuído a JAVA_HOME/bin. Esse caminho é inserido no PATH do sistema operacional.
-* **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações. 
+* **Orientação a Objetos** ---> É o paradigma de desenvolvimento de sodtware utilizado pela linguagem Java. O conceito de orientação a objetos tem como característica, a facilidade no reaproveitamento de código para a mesma ou futuras aplicações.
 * **Classe** ---> É uma coleção de dados compostos por seus atributos e métodos. Uma classe é um modelo para a criação de um objeto.
 * **Classe POJO** ---> São classes dedicadas a possuirem somente atributos com seus métodos setters e getters.
 * **Instância** ---> É o procidimento  necessário para criar um objeto. Muito conhecido como "dar um new em uma classe Java".
 * **Objeto** ---> É construído a partir de uma classe. Ou seja, uma classe pode ser a base para a construção de diversos objetos.
 * **Herança** ---> É o mecanismo que pode ser utilizado para que uma classe herde informações de uma outra classe.
 * **Polimorfismo** ---> É capacidade de um objeto utilizar a referência de um outro objeto em tempo de execução.
-* **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original. 
+* **Override** ---> É o mecanimo de se utilizar um método de uma classe pai. Porém, com uma escrita diferente do método original.
 * **Modificadores** ---> São utilizados com intuito de gerenciar o acesso a classes, variáveis e métodos.
 * **Variável** ---> É o espaço dedicado em memória para armazenar algum dado que possa ser alterado durante a utilização do sistema.
 * **Constante** ---> É o espaço dedicado em memória para armazenar algum dado que não poderá ser alterado durante a utilização do sistema. É necessário utilizar a palavra reservada "final" na declaração da constante.
@@ -130,13 +130,13 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 * **Ciclo de Vida** ---> O JSF tem como base, um ciclo de vida bem defindo para a construção de aplicações Web. As fases que compõem esse ciclo, são: Restore View, Apply Request Values,  Process Validation, Update Model Values, Invoke Application, Render Response.
 * **expression language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
-   
-* **Managed Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managed Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managed Beans.
- 
-* **AJAX** ---> O AJAX permite ao desenvolvedor, entre as muitas opções de comunicação com  o servidor, a realização de atividades assíncronas. Como por exemplo, a atualização de páginas de internet de acordo com determinadas ações do usuário. Evitando assim, a necessidade de toda atualização da tela do sistema. Tornando assim, a navegabilidade do usuário mais amigável. E o melhor de tudo isso, é que o JSF já traz o Ajax incorporado em sua implementação. 
 
-* **Facelet** ---> É o recurso utilizado para a construção de templates em aplicações Web com o JavaServerFaces. Esse recurso, evita a duplicação de código em diversas partes da aplicação. 
+* **Managed Beans** ---> São anotações utlizadas em classes Java. Sua função é facilitar a comunicacação entre arquivos HTML e classes Java, seja na inserção ou para consulta de dados do sistema. Comumente se comunica com os DAOs do sistema. Os Managed Beans também possuem definição de escopo. É necessário customizar o tipo de escopo para cada Managed Beans.
+
+* **AJAX** ---> O AJAX permite ao desenvolvedor, entre as muitas opções de comunicação com  o servidor, a realização de atividades assíncronas. Como por exemplo, a atualização de páginas de internet de acordo com determinadas ações do usuário. Evitando assim, a necessidade de toda atualização da tela do sistema. Tornando assim, a navegabilidade do usuário mais amigável. E o melhor de tudo isso, é que o JSF já traz o Ajax incorporado em sua implementação.
+
+* **Facelet** ---> É o recurso utilizado para a construção de templates em aplicações Web com o JavaServerFaces. Esse recurso, evita a duplicação de código em diversas partes da aplicação.
 
 * **Conversores** ---> Essa funcionalidade é útil para a conversão de tipos durante uma requisição ou solicitação feita pelo usuário, por exemplo.
 
-* **Validadores** ---> São úteis para validar informações inseridas por um usuário. 
+* **Validadores** ---> São úteis para validar informações inseridas por um usuário.
