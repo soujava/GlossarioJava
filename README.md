@@ -45,7 +45,7 @@ Após a compilação, o arquivo com a extensão ".class" já encontra-se dispon�
 
 ## O que é um arquivo com a extensão ".jar" ?
 
-É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar", pode ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
+É um arquivo compactador de outros arquivos, e que é utilizado no desenvolvimnento Java. O conteúdo de um arquivo com a extensão ".jar" pode ser classes Java e/ou outros tipos de arquivos. Exemplo: arquivos com a extensão ".xml".  
 
 ## O que é um arquivo com a extensão ".war" ?
 
