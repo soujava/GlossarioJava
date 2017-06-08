@@ -217,6 +217,7 @@ Cache
  - Space4J – <http://www.space4j.org/>
  - Memcache – <http://memcached.org/> 
  - Ecache – <http://ehcache.org/>
+ - Redis - <https://redis.io/>
  - Prevayler – <http://prevayler.org/>
  - JBoss Infinispan – <http://www.jboss.org/infinispan.html>
 
