@@ -268,6 +268,7 @@ JSON
  - JSON – <http://www.json.org/java/>
  - XStream – <http://xstream.codehaus.org/json-tutorial.html>
  - Google-JSON – <http://code.google.com/p/google-gson/>
+ - Jackson - <https://github.com/FasterXML/jackson-databind>
 
 Boletos bancário
 ----------------
