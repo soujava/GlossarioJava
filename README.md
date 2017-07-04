@@ -202,3 +202,4 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Estados de Entidade** ---> Uma entidade pode ter assumir os seguintes estados: Transient, Managed, Detached e Remove.
 
 * **Transação** --> Ocorre quando há alguma interação da aplicação com o banco de dados. Essa interação precisa precisa de ter um início e um fim.
+* **Associação entre Entidades** --> Ao realizar o relacionamento entre entidades, é possível utilizar os seguintes tipos de associações: @OneToOne,  @OneToMany, @ManyToOne e @ManyToMany.
