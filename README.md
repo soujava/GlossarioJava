@@ -145,3 +145,6 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * [O que é o Hibernate?](#o-que-é-o-Hibernate-)
 
 ## O que é o "Hibernate" ?
+ 
+ É o um frammework que tem como objetivo, utilizar o mapeamento objeto-relacional(ORM) em uma aplicação. Seja ela, uma aplicação web. Seja ela, uma aplicação desktop. 
+ Com esse tipo de mapeamento, é o possível aumentar o nível de abstração entre uma aplicação e o banco de dados. Tornando assim, a aplicação mais independente da linguagem SQL espefífica que cada banco de dados utiliza. 
