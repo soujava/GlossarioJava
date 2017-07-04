@@ -200,3 +200,5 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **EntityManagerFactory** ---> É responsável por gerenciar e disponibilizar métodos que podem ser utilizados em transações com o banco de dados.
 
 * **Estados de Entidade** ---> Uma entidade pode ter assumir os seguintes estados: Transient, Managed, Detached e Remove.
+
+* **Transação** --> Ocorre quando há alguma interação da aplicação com o banco de dados. Essa interação precisa precisa de ter um início e um fim.
