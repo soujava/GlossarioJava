@@ -196,5 +196,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
  * **persistence.xml** ---> É o arquivo de configuração do Hibernate. Esse arquivo contém informações essenciais para o uso do frameqork em uma aplicação. Tal arquivo deve ser preenchido corretamente com informações do tipo: qual driver será utilizado para a conexão com o banco de dados, o tipo de dialeto utilizado pelo banco de dados, a url de endereço que identifica o local do banco de dados, usário e senha que serão utilizados para se conectar com o banco, entre outras informações importante para a conexão com o banco de dados.
 
 * **@Entity** ---> É a anotação utilizada na classe POJO da aplicação. Dessa forma, as classes que possuírem tal anotação: serão tratadas como entidades do banco de dados.
+
 * **EntityManagerFactory** ---> É responsável por gerenciar e disponibilizar métodos que podem ser utilizados em transações com o banco de dados.
 
+* **Estados de Entidade** ---> Uma entidade pode ter assumir os seguintes estados: Transient, Managed, Detached e Remove.
