@@ -167,6 +167,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ### [Frameworks Java](frameworks-java.md)
 * [O que é o JavaServerFaces?](#o-que-é-o-JavaServerFaces-)
+* [O que é o Hibernate?](#o-que-é-o-Hibernate-)
 
 ## O que é o "JavaServerFaces" ?
 
@@ -186,7 +187,6 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 * **Validadores** ---> São úteis para validar informações inseridas por um usuário.
 
-* [O que é o Hibernate?](#o-que-é-o-Hibernate-)
 
 ## O que é o "Hibernate" ?
  
