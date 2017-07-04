@@ -169,7 +169,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * [O que é o JavaServerFaces?](#o-que-é-o-javaserverfaces-)
 * [O que é o Hibernate?](#o-que-é-o-hibernate-)
 
-## O que é o "javaserversfaces" ?
+## O que é o "javaserverfaces" ?
 
 É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 
@@ -196,5 +196,5 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
  * **persistence.xml** ---> É o arquivo de configuração do Hibernate. Esse arquivo contém informações essenciais para o uso do frameqork em uma aplicação. Tal arquivo deve ser preenchido corretamente com informações do tipo: qual driver será utilizado para a conexão com o banco de dados, o tipo de dialeto utilizado pelo banco de dados, a url de endereço que identifica o local do banco de dados, usário e senha que serão utilizados para se conectar com o banco, entre outras informações importante para a conexão com o banco de dados.
 
 * **@Entity** ---> É a anotação utilizada na classe POJO da aplicação. Dessa forma, as classes que possuírem tal anotação: serão tratadas como entidades do banco de dados.
-* **SessionFactory** ---> É responsável por criar a fábrica se sessões do hibernate. As seções tem como objetivo, realizar transações no banco de dados.
+* **EntityManagerFactory** ---> É responsável por gerenciar e disponibilizar métodos que podem ser utilizados em transações com o banco de dados.
 
