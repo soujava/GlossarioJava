@@ -141,3 +141,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 * **Conversores** ---> Essa funcionalidade é útil para a conversão de tipos durante uma requisição ou solicitação feita pelo usuário, por exemplo.
 
 * **Validadores** ---> São úteis para validar informações inseridas por um usuário.
+
+* [O que é o Hibernate?](#o-que-é-o-Hibernate-)
+
+## O que é o "Hibernate" ?
