@@ -66,7 +66,7 @@ Muitos desenvolvedores criam suas próprias apis e disponibilizam na internet, c
 
 ## Como iniciar no desenvolvimento Java?
 
-Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço: https://go.java/developer-opportunities/index.html
+Para maiores informações sobre como se tornar um desenvolvedor na linguagem Java, acesse o site oficial no seguinte endereço: [https://go.java/developer-opportunities/index.html]: https://go.java/developer-opportunities/index.html 
 
 ### _Termos do Glossário Java_
 
