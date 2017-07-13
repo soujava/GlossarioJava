@@ -128,7 +128,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 É o componente da especificação JAVA EE que auxilia o desenvolvedor Java a construir aplicaçãoes WEB baseadas em componentes gráficos. Além de ter como base, o desenvolvimento de aplicações WEB no padrão MVC.
 
-* **Ciclo de Vida** ---> O JSF tem como base, um ciclo de vida bem defindo para a construção de aplicações Web. As fases que compõem esse ciclo, são: Restore View, Apply Request Values,  Process Validation, Update Model Values, Invoke Application, Render Response.
+* **Ciclo de Vida** ---> O JSF tem como base, um ciclo de vida bem defindo para a construção de aplicações Web. As fases que compõem esse ciclo são: Restore View, Apply Request Values, Process Validation, Update Model Values, Invoke Application, Render Response.
 
 * **Expression Language** ---> É utilizada em páginas HTML. Sua função é se comunicar com os managead Beans do JSF.
 
