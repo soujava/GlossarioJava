@@ -6,6 +6,7 @@ O objetivo deste glossário é descrever o significado de vários termos que com
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/1/18/SouJava_logo.jpg">
 </p>
+
 ----------
 
 * [O que é a linguagem Java?](#o-que-é-a-linguagem-java)
