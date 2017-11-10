@@ -192,7 +192,7 @@ Para maiores informações sobre como se tornar um desenvolvedor na linguagem Ja
 
 ## O que é o "hibernate" ?
  
- É um frammework que tem como objetivo, utilizar o mapeamento objeto-relacional(ORM) em uma aplicação. Seja ela, uma aplicação web. Seja ela, uma aplicação desktop. 
+ É um framework que tem como objetivo, utilizar o mapeamento objeto-relacional(ORM) em uma aplicação. Seja ela, uma aplicação web. Seja ela, uma aplicação desktop. 
  Com esse tipo de mapeamento, é o possível aumentar o nível de abstração entre uma aplicação e o banco de dados. Tornando assim, a aplicação mais independente da linguagem SQL espefífica que cada banco de dados utiliza. 
  
  * **persistence.xml** : É o arquivo de configuração do Hibernate. Esse arquivo contém informações essenciais para o uso do frameqork em uma aplicação. Tal arquivo deve ser preenchido corretamente com informações do tipo: qual driver será utilizado para a conexão com o banco de dados, o tipo de dialeto utilizado pelo banco de dados, a url de endereço que identifica o local do banco de dados, usário e senha que serão utilizados para se conectar com o banco, entre outras informações importante para a conexão com o banco de dados.
